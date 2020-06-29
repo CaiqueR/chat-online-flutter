@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044089752725",
+    "firebase_url": "https://chatflutteronlineapp.firebaseio.com",
+    "project_id": "chatflutteronlineapp",
+    "storage_bucket": "chatflutteronlineapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044089752725:android:ea3e1aa4eb80baf8cf9f9c",
+        "android_client_info": {
+          "package_name": "com.caique.chatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044089752725-03aui33a2c8kt7vqe8nl8rt43q4vjufm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caique.chatonline",
+            "certificate_hash": "16c938d2aa0a3d0439656352ffc6d6dbef912d90"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbEAl6j4JzRTvoCnR1qSuLuObhBNUivM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
